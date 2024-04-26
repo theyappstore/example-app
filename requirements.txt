@@ -1,0 +1,9 @@
+python-dotenv
+openai 
+tiktoken
+langchain
+autopep8
+nest_asyncio
+chainlit
+pyautogen
+pandas
